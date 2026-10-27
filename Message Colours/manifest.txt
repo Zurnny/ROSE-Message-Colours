@@ -1,0 +1,6 @@
+; Update list for Message Colours. Upload this next to mod.ini and the files folder.
+version=1.0
+6bb26855d94d6a9742ed50fb1e7cfbd0153b0cd0|mod.ini
+4f17a445f83fe2e1f2df6d616cbffdfaf0bb60db|files/Data/ui/sp_addons/msg_colors.txt
+87b1a3aa35eb6ac65c120b61299c3ccf0e848e58|files/Data/ui/themes/rose/game/chat_box.html
+6fedb34cabee5e5dda0c2652adf7056e8d331d6d|files/Data/ui/themes/rose/game/options_bgfx.html
