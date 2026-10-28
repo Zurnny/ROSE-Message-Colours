@@ -1,8 +1,8 @@
 ; Update list for Message Colours. Upload this next to mod.ini and the files folder.
-version=1.4
-29a6c4f165dfe29ab56a82e6c723d0b14b04ce75|mod.ini
+version=1.5
+5d2014b8728e502b76e2c7f2e951c8fc5cd02a42|mod.ini
 4f17a445f83fe2e1f2df6d616cbffdfaf0bb60db|files/Data/ui/sp_addons/msg_colors.txt
 a1e2a4e04c96954159ebea1ae0c90222c008c02b|files/Data/ui/themes/rose/game/chat_box.html
-f1078775d1f94254685519a4d54b6c3de1cb3b30|files/Data/ui/themes/rose/game/options_bgfx.html
+cfe4c3a63e20ee55e3b512b3366654398eafeeed|files/Data/ui/themes/rose/game/options_bgfx.html
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
 80a26b6252e1b6dde9cd64c23911e2d2adae0d54|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
