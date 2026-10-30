@@ -2,7 +2,7 @@
 
 Pick a colour for each chat channel.
 
-Adds Message Colours to the Add-ons window (the Add-ons button in the menu), under Chat: pick a colour for each chat channel (chat, shout, whisper, trade, party, clan, group, quest and system). "Default" keeps the game's colour.
+Adds Message Colours to the Add-ons window (the Add-ons button in the menu), under Chat: pick a colour for each chat channel (chat, shout, whisper, trade, party, clan, group, group leader, quest and system). "Default" keeps the game's colour.
 
 An add-on for [ROSE Mod Launcher](https://github.com/Zurnny/Rose_Mod_Launcher), for the game's default UI and the Steampunk UI theme. Without the launcher, copy the `Data` folder from `files` into your ROSE Online folder.
 
